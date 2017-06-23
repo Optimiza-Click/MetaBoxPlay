@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: CF7getParams
+Plugin Name: MetaBoxPlay
 Plugin URI: http://optimizaclick.com
-Description: Get values to form
+Description: Show all custom params in the wordpress page edit
 Author: Departamento de Desarrollo Optimizaclick
-Author URI: http://#
+Author URI: http://optimizaclick.com
 Version: 1.0
 Copyright: 2016 - 2017
 */
